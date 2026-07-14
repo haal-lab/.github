@@ -26,4 +26,4 @@ https://haal-lab.solutions
 
 ## Contact
 
-contact@haal-lab.solutions
+hussain.nazary@haal-lab.solutions
